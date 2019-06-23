@@ -1,0 +1,5 @@
+E:\SUJEET\WCFSample\01-SaleClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\SUJEET\WCFSample\01-SaleClassLibrary\bin\Debug\01-SaleClassLibrary.dll
+E:\SUJEET\WCFSample\01-SaleClassLibrary\bin\Debug\01-SaleClassLibrary.pdb
+E:\SUJEET\WCFSample\01-SaleClassLibrary\obj\Debug\01-SaleClassLibrary.dll
+E:\SUJEET\WCFSample\01-SaleClassLibrary\obj\Debug\01-SaleClassLibrary.pdb

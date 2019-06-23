@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleClassLibrary", "01-SaleClassLibrary\SaleClassLibrary.csproj", "{D0BAE3A1-C9C4-48A2-A3C6-E62F73C25C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-SaleServiceHost", "02-SaleServiceHost\02-SaleServiceHost.csproj", "{20FF7B89-2A26-42BA-BA67-A5709504328D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0BAE3A1-C9C4-48A2-A3C6-E62F73C25C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BAE3A1-C9C4-48A2-A3C6-E62F73C25C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BAE3A1-C9C4-48A2-A3C6-E62F73C25C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BAE3A1-C9C4-48A2-A3C6-E62F73C25C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FF7B89-2A26-42BA-BA67-A5709504328D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FF7B89-2A26-42BA-BA67-A5709504328D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FF7B89-2A26-42BA-BA67-A5709504328D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FF7B89-2A26-42BA-BA67-A5709504328D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
